@@ -12,20 +12,20 @@ Below are projects I have worked on!
 ### Description
 Banking Application Development: Full-Stack Implementation
 
-For this project, I expanded a basic banking application into a fully functional, role-based system using React for the front end and a MongoDB/Node.js/Express backend. The application supports three user roles: Administrator, Employee, and Customer, each with specific permissions and capabilities.
+For this project, I expanded a basic banking application into a fully functional, role-based system using React for the front end and a MongoDB/Node.js/Express back end. The application supports three user roles: Administrator, Employee, and Customer. Each of the roles has specific permissions and capabilities.
 
 Frontend:
 
 - **User Authentication**:
-  - Implemented a secure login system requiring a username, password, and verification of credentials.
+  - Created a secure login system requiring a username, password, and verification of credentials.
 - **Role Management**:
-  - Administrators can manage user roles, promoting or demoting users between Customer, Employee, and Administrator roles.
+  - Administrators can manage user roles, changing users between Customer, Employee, and Administrator roles.
 - **Account Management**:
-  - Customers can manage three types of accounts—savings, checking, and investment—including depositing, withdrawing, and transferring funds. Employees can perform similar actions for any customer account.
+  - Customers can manage three types of accounts: savings, checking, and investment. Each account allows for depositing, withdrawing, and transferring funds. Employees can perform similar actions for any customer account as well as transfer money between customers.
 - **Transaction History**:
   - Provided both comprehensive and individual transaction histories, displaying dates and transaction details.
 - **Clean UI Design**:
-  - Utilized Bootstrap for a polished and consistent UI, ensuring a professional look and feel with well-aligned elements.
+  - Utilized Bootstrap for a polished and consistent UI, ensuring a professional look and feel with a user-friendly interface.
 
 Backend:
 
@@ -51,7 +51,7 @@ This project demonstrates my ability to design and implement a full-stack applic
 ### Description
 Hangman Game Development: Full-Stack Group Project
 
-In this group project, we developed a full-stack Hangman game using React for the front end, Express for the backend, and MongoDB for data storage. The game was designed with both user engagement and fair play in mind, ensuring a fun and challenging experience for players.
+In this group project, we developed a full-stack Hangman game using React for the front end, Express for the backend, and MongoDB for data storage. The game was designed with both user engagement and fairness in mind, ensuring a fun and challenging experience for players.
 
 Game Logic:
 
@@ -59,14 +59,14 @@ Game Logic:
   - Players start by entering their name, after which the game begins with a traditional hangman setup. Players guess letters, with correct guesses revealing the letters and incorrect guesses progressing the hangman and displaying the wrong letters.
 Session Management: User sessions were implemented to store the player's name throughout the game, avoiding the need to re-enter it after each round.
 - **Random Word Selection**:
-  - The game randomly selects words from a database containing over 1,000 potential words, ensuring a varied and unpredictable experience.
+  - The game randomly selects words from a database containing over 1,000 possible words, ensuring a varied and unpredictable experience. The length of each word varies.
 - **Fair Play**:
   - The chosen word is never sent to the client until the game ends, preventing players from cheating by inspecting the DOM.
   
 High Scores:
 
 - **Leaderboard**:
-  - After each game, a top 10 leaderboard is displayed, showing the best scores for words of similar length. The leaderboard tracks the player's name, the number of guesses made, and the word length.
+  - After each game, a top 10 leaderboard is displayed, showing the best scores for words of the same length. The leaderboard tracks the player's name, the number of guesses made, and the word length.
 Persistent Scoring: High scores are stored in a MongoDB database, allowing for persistent tracking of the top players.
 Collaboration and Code Management:
 
@@ -76,4 +76,4 @@ Collaboration and Code Management:
   - The game was successfully tested and run on all developers' machines, ensuring a consistent experience across different environments.
 
 ### Summary: 
-This project highlights my ability to work in a team, manage version control, and develop a complete, interactive web-based game with a focus on both functionality and user experience.
+This project highlights my ability to work in a team, efficiently utilize a version control system, and develop a complete, interactive web-based game with a focus on both functionality and user experience.

@@ -41,7 +41,7 @@ Backend:
 ### Summary: 
 This project demonstrates my ability to design and implement a full-stack application with secure authentication, role-based access control, and a clean, user-friendly interface.
 
-## [Hangman Game](https://github.com/kadevirgil/Portfolio/tree/main/CS3750_Hangman_Game)
+## [Hangman Game](https://github.com/Cojo99/Portfolio-Site/tree/main/hangman-game)
 
 > [!NOTE]
 > Click the link above to view the code in GitHub!

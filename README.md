@@ -4,7 +4,6 @@ Hi, I am **Connor Jones**, an undergraduate at **Weber State Univeristy** majori
 Below are a few of the projects I have worked on:
 ## [Banking Application](https://github.com/Cojo99/Portfolio-Site/tree/main/Banking-App)
 
-> [!NOTE]
 > Click the link above to view the code in GitHub!
 
 ![Banking app gif demo](/gifs/banking-app.gif)
@@ -41,7 +40,6 @@ This project demonstrates my ability to design and implement a full-stack applic
 
 ## [Hangman Game](https://github.com/Cojo99/Portfolio-Site/tree/main/hangman-game)
 
-> [!NOTE]
 > Click the link above to view the code in GitHub!
 
 ![hangman gif demo game](/gifs/hangman-game.gif)

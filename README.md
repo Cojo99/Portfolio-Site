@@ -47,7 +47,7 @@ This project demonstrates my ability to design and implement a full-stack applic
 ### Description
 Hangman Game Development: Full-Stack Group Project
 
-In this group project, we developed a full-stack Hangman game using React for the front end, Express for the backend, and MongoDB to store user information and high scores. We designed the game so it would be a fun experience for the user and feel like a real game with lots of possible words.
+In this group project, we developed a full-stack Hangman game using React for the front end, Express for the backend, and MongoDB to store user information and high scores. The game was designed to be easy to navigate and provide an enjoyable game-play.
 
 Game Logic:
 
@@ -57,12 +57,12 @@ Session Management: User sessions were implemented to store the player's name th
 - **Random Word Selection**:
   - The game randomly selects words from a file containing over 1,000 possible words, ensuring a random, authentic game experience. The length of each word varies.
 - **Fair Play**:
-  - The chosen word is never sent to the client until the game ends, preventing players from cheating by inspecting the DOM.
+  - The chosen word is never sent to the front end until the game ends. This prevents players from cheating by inspecting the DOM.
   
 High Scores:
 
 - **High Schores**:
-  - After each game, a top 10 high scores are displayed, showing the best scores for words of the same length. The high scores list tracks the player's name, the number of guesses made, and the length of the word.
+  - After each game, the top 10 high scores are displayed, showing the best scores for words of the same length. The high scores list tracks the player's name, the number of guesses made, and the length of the word.
 Persistent Scoring: High scores are stored in a MongoDB database, allowing for persistent tracking of the top players.
 Collaboration and Code Management:
 

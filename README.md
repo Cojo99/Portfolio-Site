@@ -17,7 +17,7 @@ Frontend:
 
 - **User Authentication**:
   - Implemented a login system requiring a username, password, and verification of credentials for added security.
-- **Elevated Accesst**:
+- **Elevated Access**:
   - Administrators can elevate and demote user roles, changing users between Customer, Employee, and Administrator roles. Admins can access all other pages of the site.
 - **Account Management**:
   - Customers can manage three types of accounts: savings, checking, and investment. Each account allows for depositing, withdrawing, and transferring funds. Employees can perform similar actions for any customer account as well as transfer money between customers.

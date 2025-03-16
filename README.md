@@ -61,7 +61,7 @@ Session Management: User sessions were implemented to store the player's name th
   
 High Scores:
 
-- **High Schores**:
+- **High Scores**:
   - After each game, the top 10 high scores are displayed, showing the best scores for words of the same length. The high scores list tracks the player's name, the number of guesses made, and the length of the word.
 Persistent Scoring: High scores are stored in a MongoDB database, allowing for persistent tracking of the top players.
 Collaboration and Code Management:

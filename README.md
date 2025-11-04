@@ -1,5 +1,5 @@
 # Welcome to my Portfolio
-Hi, I am **Connor Jones**, an undergraduate at **Weber State Univeristy** majoring in **Computer Science**
+Hi, I am **Connor Jones**! I recently graduated from **Weber State University** with my bachelor's degree in **Computer Science**.
 ## Projects
 Below are a few of the projects I have worked on:
 ## [Banking Application](https://github.com/Cojo99/Portfolio-Site/tree/main/Banking-App)

@@ -1,7 +1,26 @@
 # Welcome to my Portfolio
-Hi, I am **Connor Jones**! I recently graduated from **Weber State University** with my bachelor's degree in **Computer Science**.
+Hi, I am **Connor Jones**! I recently graduated from **Weber State University** with my bachelor's degree in **Computer Science**. Since graduating, I have been able to work as a software developer creating websites used by over 1000 people by working with different teams to create user-friendly and functional UIs.
 ## Projects
 Below are a few of the projects I have worked on:
+## Central Hub for healthcare company##
+### Description
+Central Hub for Healthcare company: C# Razor Pages Full-Stack Implementation
+
+In my current position, I have built a web application to help with different workflows throughout the clinic including scheduling, file maintenance, and policy management.
+
+Frontend: 
+- ** User Authentication**:
+  - Integrated with active directory to use user's Windows Login to assign permissions to view certain content and pages, ensuring privacy and least-privilege policies.
+- ** File Maintenance and data manipulation **
+  - Created pages to allow user to add notes and be able to reorder the notes, giving them options to select different colors and categories. Created another page to allow users to upload PDFs and assign categories and add creation and effective dates. Departments were able to manage their own files, streamlining their processes.
+ 
+Backend:
+- **Data Management**:
+  - Used MySQL database to maintain each department's data. Used 25+ tables to securely access sensitive information.
+- **CRUD Operations**:
+  - Built out funcionality that enabled users to input and export data including lists and PDFs, all wrapped up in a UI built around the user to ensure intuitive access.
+
+
 ## [Banking Application](https://github.com/Cojo99/Portfolio-Site/tree/main/Banking-App)
 
 > Click the link above to view the code in GitHub!
